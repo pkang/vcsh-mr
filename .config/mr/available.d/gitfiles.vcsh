@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/gitfiles.git]
+checkout = vcsh clone git://github.com/pkang/gitfiles.git gitfiles
