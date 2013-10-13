@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/iterm.git]
+checkout = vcsh clone git@github.com:pkang/vcsh-iterm.git iterm

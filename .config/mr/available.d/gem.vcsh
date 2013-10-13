@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/gem.git]
+checkout = vcsh clone git@github.com:pkang/vcsh-gem.git gem
