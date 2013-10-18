@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/emacs.git]
+checkout = vcsh clone git@github.com:pkang/vcsh-emacs.git emacs
+
