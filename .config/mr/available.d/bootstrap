@@ -1,0 +1,2 @@
+[$HOME/code/bootstrap]
+checkout = git clone git@github.com:pkang/bootstrap.git
